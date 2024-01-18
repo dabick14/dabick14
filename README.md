@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Dag</h1>
+
 - 🔭 I’m currently working on **projects in Firebase**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase** 
 
 - 👯 I’m looking to collaborate on **projects in Javascript and Java**
 
